@@ -1,6 +1,6 @@
 <?php
 /**
- * Given an array arr[] of size N-1 with integers in the range of [1, N], the task is to find the missing number from the first N integers.
+ * Given an array arr[] of size N-1 with integers in the range of [1, N], the task is to find all the missing numbers from 1 to N integers.
  *
  * Note: There are no duplicates in the list. The values are not sorted.
  *
@@ -15,7 +15,7 @@
  * Explanation: The missing numbers between 1 to 5 are: 2 4
  **/
 
-function printMissingNumbersFrom1to100(array $inputArr, int $N)
+function printMissingNumbersFrom1toN(array $inputArr, int $N)
 {
 }
 
